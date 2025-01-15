@@ -5,3 +5,7 @@
 
 # ComfyUI_Workflows
 My ComfyUI workflows collection
+
+## About 
+🔗Social media 
+- Linkedin: https://www.linkedin.com/in/oguz-ozturk/
