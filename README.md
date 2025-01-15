@@ -36,6 +36,12 @@ https://github.com/user-attachments/assets/ae12bf68-ff90-4910-a364-f8544dcf2947
 ![image_LgB6dDaA_1732176630890_raw](https://github.com/user-attachments/assets/027efc09-6fa1-4dc6-89c7-a756140fd2d1)
 
 ## 4️⃣ SD3.5-large + Inpaint + Upscale
-[ SD3.5-large + Inpaint + Upscale](https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/sd35-large-inpaint-upscale.json)
+[SD3.5-large + Inpaint + Upscale](https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/sd35-large-inpaint-upscale.json)
 
 ![Untitled design (2)](https://github.com/user-attachments/assets/34b95ab7-02d7-4d67-8831-563cbf5e09a2)
+
+## 5️⃣ SD3.5-large + Segment Anything + Inpaint + Upscale
+[SD3.5-large + Segment Anything + Inpaint + Upscale](https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/sd35-large-segment-anything-inpaint-upscale.json)
+
+![Untitled design (1)](https://github.com/user-attachments/assets/43771170-98ba-4c71-b3a4-527bbbd101ac)
+
