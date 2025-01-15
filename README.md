@@ -18,7 +18,7 @@ My ComfyUI workflows collection
 📬 Contact me:
 - Email: ooguz400@gmail.com
 
-## 1️⃣ Hunyuan Video
+## 1️⃣ Hunyuan Video (8 GB VRAM)
 [HUNYUAN VIDEO](https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/hunyuan-video-text-to-video.json)
 
 https://github.com/user-attachments/assets/ae12bf68-ff90-4910-a364-f8544dcf2947
