@@ -8,9 +8,12 @@ My ComfyUI workflows collection
 
 <div align="left">
 
-## About 
-🔗Social media 
+## About
+🔗Social media:
 - Linkedin: https://www.linkedin.com/in/oguz-ozturk/
 - X（Twitter)：https://x.com/oztrkoguzzz
 - Hugginface: https://huggingface.co/oztrkoguz
 - Openart: https://openart.ai/workflows/profile/oztrkoguz
+
+📬 Contact me:
+- Email: ooguz400@gmail.com
