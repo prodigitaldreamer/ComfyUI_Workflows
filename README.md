@@ -27,6 +27,8 @@ https://github.com/user-attachments/assets/ae12bf68-ff90-4910-a364-f8544dcf2947
 ## 2️⃣ Dynamically Writing on the Product 
 [Dynamically Writing on the Product](https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/dynamically-writing-on-the-product.json)
 
+[Online test](https://www.runninghub.cn/post/1878988295345762305/?utm_source=openart)
+
 ![image_I7yLNyut_1736752425629_raw](https://github.com/user-attachments/assets/5b378730-d372-4dc1-9ecf-d803c53d70c0)
 
 
