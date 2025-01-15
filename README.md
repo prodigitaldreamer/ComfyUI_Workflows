@@ -21,7 +21,7 @@ My ComfyUI workflows collection
 ## 1️⃣ Hunyuan Video
 [HUNYUAN VIDEO 1.0](https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/hunyuan-video-text-to-video.json)
 
+https://github.com/user-attachments/assets/ae12bf68-ff90-4910-a364-f8544dcf2947
 
-https://github.com/user-attachments/assets/d4fbb571-2397-44bb-9541-804468352484
 
 
