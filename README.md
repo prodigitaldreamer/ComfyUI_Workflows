@@ -19,3 +19,6 @@ My ComfyUI workflows collection
 - Email: ooguz400@gmail.com
 
 ## 1️⃣ Hunyuan Video
+https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/hunyuan-video-text-to-video.json
+https://github.com/user-attachments/assets/230d03ce-e53a-4b2d-8987-1ffe64e413ac
+
