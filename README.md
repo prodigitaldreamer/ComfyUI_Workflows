@@ -18,7 +18,7 @@ My ComfyUI workflows collection
 📬 Contact me:
 - Email: ooguz400@gmail.com
 
-## 1.Creating the Product Background
+## 1. Creating the Product Background
 [Creating-the-Product-Background](https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/Creating-the-Product-Background.json)
 
 ![Input](https://github.com/user-attachments/assets/a383212c-2a44-41a2-9229-5e4a393453dc)
