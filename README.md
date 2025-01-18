@@ -1,4 +1,4 @@
-![yaz-home-kristal-dekoratif-parfum-sise--19f7](https://github.com/user-attachments/assets/083bc266-982d-479a-8bdf-e5d196046ff1)
+
 ![974ecfce-09f7-4199-8bed-1449497d778d](https://github.com/user-attachments/assets/ab1614c6-9693-48f8-a11d-ba77ae0a35b9)
 
 <div align="center">
