@@ -8,15 +8,6 @@ My ComfyUI workflows collection
 
 <div align="left">
 
-## About
-🔗Social media:
-- Linkedin: https://www.linkedin.com/in/oguz-ozturk/
-- X（Twitter)：https://x.com/oztrkoguzzz
-- Hugginface: https://huggingface.co/oztrkoguz
-- Openart: https://openart.ai/workflows/profile/oztrkoguz
-
-📬 Contact me:
-- Email: ooguz400@gmail.com
 
 ## 1. Creating the Product Background
 [Creating-the-Product-Background](https://github.com/oztrkoguz/ComfyUI_Workflows/blob/main/Creating-the-Product-Background.json)
